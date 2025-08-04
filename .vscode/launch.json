@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "checkOut",
+            "request": "launch",
+            "mainClass": "checkOut",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "updateRoom",
+            "request": "launch",
+            "mainClass": "updateRoom",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "updateCheck",
+            "request": "launch",
+            "mainClass": "updateCheck",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "pickupService",
+            "request": "launch",
+            "mainClass": "pickupService",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "customerInfo",
+            "request": "launch",
+            "mainClass": "customerInfo",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "searchRoom",
+            "request": "launch",
+            "mainClass": "searchRoom",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "newCustomer",
+            "request": "launch",
+            "mainClass": "newCustomer",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "managerInfo",
+            "request": "launch",
+            "mainClass": "managerInfo",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "employee",
+            "request": "launch",
+            "mainClass": "employee",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "department",
+            "request": "launch",
+            "mainClass": "department",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "reception222",
+            "request": "launch",
+            "mainClass": "reception222",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "checkRoom",
+            "request": "launch",
+            "mainClass": "checkRoom",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "adddriver",
+            "request": "launch",
+            "mainClass": "adddriver",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "addemployee",
+            "request": "launch",
+            "mainClass": "addemployee",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "addroom",
+            "request": "launch",
+            "mainClass": "addroom",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "admin",
+            "request": "launch",
+            "mainClass": "admin",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "dashboard",
+            "request": "launch",
+            "mainClass": "dashboard",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "login",
+            "request": "launch",
+            "mainClass": "login",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "login2",
+            "request": "launch",
+            "mainClass": "login2",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "reception",
+            "request": "launch",
+            "mainClass": "reception",
+            "projectName": "hotel_management_1fc4fa7d"
+        },
+        {
+            "type": "java",
+            "name": "splash",
+            "request": "launch",
+            "mainClass": "splash",
+            "projectName": "hotel_management_1fc4fa7d"
+        }
+    ]
+}
